@@ -1,6 +1,7 @@
 
-**Angular version: 5.2.9
-ngx-translate: 9.1.1**
+**Angular version: 5.2.9**
+
+**ngx-translate: 9.1.1**
 
 - Install 
 ```
