@@ -8,7 +8,7 @@ npm install -g json-server
 touch db.json
 ```
 
-**Check file json**
+**Show content file json**
 ```
 cat db.json
 ```
