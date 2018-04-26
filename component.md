@@ -1,4 +1,4 @@
-Create component 'word' with angular CLI
+EX: Create component 'word' with angular CLI
 
 Way 1:
 ```
@@ -36,6 +36,8 @@ import { WordComponent } from './word.component';
   ],
 ...
 ```
+
+***IMPORT***
 
 **app.component.html**
 
