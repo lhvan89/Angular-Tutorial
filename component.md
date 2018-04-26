@@ -1,8 +1,15 @@
 Create component 'word' with angular CLI
+
+Way 1:
 ```
 - $ ng generate component word
+```
+Way 2:
+```
 - $ ng g c word
 ```
+
+***RESULT***
 
 **word.component.ts**
 ```
